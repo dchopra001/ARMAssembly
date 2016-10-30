@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\ECE_222\Labs\Lab3\Lab3.uvproj
+Project File Date:  03/28/2013
+
+<h2>Output:</h2>
+Rebuild target 'LPC1768_RAM'
+assembling LPC17xx.s...
+LPC17xx.s(232): warning: A1488W: PROC/FUNC at line 173 in 'LPC17xx.s' without matching ENDP/ENDFUNC
+LPC17xx.s(265): warning: A1464W: ENDP/ENDFUNC without corresponding PROC/FUNC
+assembling Lab4_program.s...
+Lab4_program.s(1031): warning: A1447W: Missing END directive at end of file, but found a label named END
+Lab4_program.s(1031): warning: A1581W: Added 2 bytes of padding at address 0xae
+linking...
+Lab3.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=264 RO-data=204 RW-data=0 ZI-data=512  
+"Lab3.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab3\\Lab3.AXF" 
+No Algorithm found for: 10000000H - 100001CFH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001CFH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling LPC17xx.s...
+LPC17xx.s(232): warning: A1488W: PROC/FUNC at line 173 in 'LPC17xx.s' without matching ENDP/ENDFUNC
+LPC17xx.s(265): warning: A1464W: ENDP/ENDFUNC without corresponding PROC/FUNC
+assembling Lab4_program.s...
+Lab4_program.s(1115): warning: A1447W: Missing END directive at end of file, but found a label named END
+linking...
+Lab3.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=448 RO-data=204 RW-data=0 ZI-data=512  
+"Lab3.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab3\\Lab3.AXF" 
+No Algorithm found for: 10000000H - 10000287H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000287H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling LPC17xx.s...
+LPC17xx.s(232): warning: A1488W: PROC/FUNC at line 173 in 'LPC17xx.s' without matching ENDP/ENDFUNC
+LPC17xx.s(265): warning: A1464W: ENDP/ENDFUNC without corresponding PROC/FUNC
+assembling Lab4_program.s...
+linking...
+Lab3.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=396 RO-data=204 RW-data=0 ZI-data=512  
+"Lab3.axf" - 0 Error(s), 3 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab3\\Lab3.AXF" 
+No Algorithm found for: 10000000H - 10000253H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000253H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...

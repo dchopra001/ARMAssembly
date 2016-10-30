@@ -1,0 +1,3 @@
+Dependencies for Project 'Lab3', Target 'LPC1768_FLASH': (DO NOT MODIFY !)
+F (.\Lab3_program.s)(0x5138E0E8)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx --list "Lab3_program.lst" --xref -o "Lab3_program.o" --depend "Lab3_program.d")
+F (.\LPC17xx.s)(0x5138E11B)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx --list "LPC17xx.lst" --xref -o "LPC17xx.o" --depend "LPC17xx.d")

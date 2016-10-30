@@ -1,0 +1,132 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         ;-------------------------------------------------------
+                       ---------------------
+    2 00000000         ; Name    Lab_1_program.s 
+    3 00000000         ; Purpose This code flashes one LED at approximately 1 H
+                       z frequency 
+    4 00000000         ; Author  Rasoul Keshavarzi 
+    5 00000000         ;-------------------------------------------------------
+                       ---------------------
+    6 00000000                 THUMB                        ; Declare THUMB ins
+                                                            truction set 
+    7 00000000                 AREA             My_code, CODE, READONLY ; 
+    8 00000000                 EXPORT           __MAIN      ; Label __MAIN is u
+                                                            sed externally q
+    9 00000000                 ENTRY
+   10 00000000         __MAIN
+   11 00000000         ; The following operations can be done in simpler method
+                       s. They are done in this 
+   12 00000000         ; way to practice different memory addressing methods. 
+   13 00000000         ; MOV moves into the lower word (16 bits) and clears the
+                        upper word
+   14 00000000         ; MOVT moves into the upper word
+   15 00000000         ; show several ways to create an address – using a fixed
+                        offset and register as offset
+   16 00000000         ;   and several examples are used below
+   17 00000000         ; NOTE MOV can move ANY 16-bit, and only SOME 16-bit, co
+                       nstants into a register
+   18 00000000 F44F 4240       MOV              R2, #0xC000 ; move 0xC000 into 
+                                                            R2
+   19 00000004 F04F 0400       MOV              R4, #0x0    ; init R4 register 
+                                                            to 0 to build addre
+                                                            ss
+   20 00000008 F2C2 0409       MOVT             R4, #0x2009 ; assign 0x20090000
+                                                             into R4
+   21 0000000C 4414            ADD              R4, R4, R2
+   22 0000000E         
+   23 0000000E         
+   24 0000000E         ;LDR   R4, 0x2009C000
+   25 0000000E F04F 037C       MOV              R3, #0x0000007C ; move initial 
+                                                            value for port P2 i
+                                                            nto R3 
+   26 00000012 6423            STR              R3, [R4, #0x40] ; Turn off five
+                                                             LEDs on port 2 
+   27 00000014 F04F 4330       MOV              R3, #0xB0000000 ; move initial 
+                                                            value for port P1 i
+                                                            nto R3
+   28 00000018 6223            STR              R3, [R4, #0x20] ; Turn off thre
+                                                            e LEDs on Port 1 us
+                                                            ing an offset
+   29 0000001A F04F 0220       MOV              R2, #0x20   ; put Port 1 offset
+                                                             into R2
+   30 0000001E F64F 70FF       MOV              R0, #0xFFFF ; Initialize R0 low
+                                                            er word for countdo
+                                                            wn
+   31 00000022         
+   32 00000022         
+   33 00000022         
+   34 00000022         loop
+   35 00000022 3801            SUBS             R0, #1      ; Decrement r0 and 
+                                                            set N,Z,V,C status 
+
+
+
+ARM Macro Assembler    Page 2 
+
+
+                                                            bits
+   36 00000024 2800            CMP              R0, #0x00000000 ;compare to see
+                                                             if R0 is 0 yet    
+                                                               
+   37 00000026 D1FC            BNE              loop        ;if branch is not e
+                                                            qual to zero, go ba
+                                                            ck to loop and minu
+                                                            s 1 again@!!!!!~!
+   38 00000028 F083 5380       EOR              R3, #0x10000000 ;exclusize or t
+                                                            o get address A
+   39 0000002C         
+   40 0000002C         ;
+   41 0000002C         ;  Approximately five lines of code
+   42 0000002C         ;  are required to complete the program 
+   43 0000002C         ;
+   44 0000002C         
+   45 0000002C 50A3            STR              R3, [R4, R2] ; Toggle the bit 2
+                                                            8 or port 1
+   46 0000002E F06F 407F       MOV              R0, #0xFFFFFF
+   47 00000032         
+   48 00000032 E7F6            B                loop        ; This branch needs
+                                                             to be fixed!
+   49 00000034         
+   50 00000034                 END
+Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=Lab_1_Pr
+ogram.d -oLab_1_Program.o -IC:\Software\Keil\ARM\RV31\INC -IC:\Software\Keil\AR
+M\CMSIS\Include -IC:\Software\Keil\ARM\Inc\NXP\LPC17xx --list=Lab_1_Program.lst
+ Lab_1_Program.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+My_code 00000000
+
+Symbol: My_code
+   Definitions
+      At line 7 in file Lab_1_Program.s
+   Uses
+      None
+Comment: My_code unused
+__MAIN 00000000
+
+Symbol: __MAIN
+   Definitions
+      At line 10 in file Lab_1_Program.s
+   Uses
+      At line 8 in file Lab_1_Program.s
+Comment: __MAIN used once
+loop 00000022
+
+Symbol: loop
+   Definitions
+      At line 34 in file Lab_1_Program.s
+   Uses
+      At line 37 in file Lab_1_Program.s
+      At line 48 in file Lab_1_Program.s
+
+3 symbols
+333 symbols in table

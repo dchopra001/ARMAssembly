@@ -1,0 +1,556 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\ECE_222\Labs\Lab2\Lab2.uvproj
+Project File Date:  02/07/2013
+
+<h2>Output:</h2>
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): error: A1871E: Immediate 0x00FFFFAA cannot be represented by 0-255 shifted left by 0-23 or duplicated in all, odd or even bytes
+assembling startup_LPC17xx.s...
+Target not created
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): error: A1871E: Immediate 0x000FFFFF cannot be represented by 0-255 shifted left by 0-23 or duplicated in all, odd or even bytes
+assembling startup_LPC17xx.s...
+Target not created
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 3 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=340 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021BH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021BH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(123): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(132): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(140): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=340 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021BH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021BH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Build target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=352 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000227H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000227H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(141): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Build target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(143): error: A1516E: Bad symbol 'DELAYSTART', not defined or external
+Target not created
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(149): warning: A1865W: '#' not seen before constant expression
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Build target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(149): warning: A1865W: '#' not seen before constant expression
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Build target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(149): warning: A1865W: '#' not seen before constant expression
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=348 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 10000223H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000223H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(149): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
+Rebuild target 'LPC1768_RAM'
+assembling Lab_2_Program.s...
+Lab_2_Program.s(124): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(133): warning: A1865W: '#' not seen before constant expression
+Lab_2_Program.s(149): warning: A1865W: '#' not seen before constant expression
+assembling startup_LPC17xx.s...
+linking...
+Lab2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=344 RO-data=204 RW-data=0 ZI-data=512  
+"Lab2.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\ECE_222\\Labs\\Lab2\\Lab2.AXF" 
+No Algorithm found for: 10000000H - 1000021FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000021FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Application running ...
